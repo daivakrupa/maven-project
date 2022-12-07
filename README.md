@@ -1,1 +1,1 @@
-# maven-project
+# jenkins-pipeline-example
